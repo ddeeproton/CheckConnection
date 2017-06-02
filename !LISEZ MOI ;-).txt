@@ -1,0 +1,9 @@
+Bonjour :)
+Les messages d'erreures (qui vous disent quoi faire en fonction du problème rencontré) se trouvent tous dans le dossier "Messages d'erreures" (à côté de l'executable).
+
+Il y a deux messages d'erreures:
+ 
+Prob du PC jusqu'au Modem.txt
+Prob du Modem jusqu'à Internet.txt
+
+Il vous suffit d'éditer ces deux fichiers pour personnaliser les messages :)

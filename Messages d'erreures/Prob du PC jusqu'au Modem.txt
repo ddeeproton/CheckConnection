@@ -1,0 +1,3 @@
+Solution:
+Vérifier que le modem est bien allumé et que le cable est bien branché. 
+Si non redémarrer l'ordinateur.

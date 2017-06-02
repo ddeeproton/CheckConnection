@@ -1,0 +1,4 @@
+Solution:
+S'il y a une lumière orange sur le modem alors redémarrer l'ordinateur et le modem.
+S'il n'y a pas de lumière orange, alors attendre 30 secondes qu'elle s'allume.
+Si toujours pas de lumière orange alors vérifier que le modem est correctement branché à la prise téléphonique.
